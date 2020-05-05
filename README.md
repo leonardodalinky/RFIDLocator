@@ -18,7 +18,7 @@ All my core logical work is done in **Java**, while the visual UI is written in 
 
 The results turn into:
 
-![H.L. Tracking Graph](https://github.com/leonardodalinky/RFIDLocator/HyperbolaLocator/pythonUI/Hyperbola.png)
+![H.L. Tracking Graph](./HyperbolaLocator/pythonUI/Hyperbola.png)
 
 The circle in black is the actual track of the stuff, while the scatterplot shows the overall prediction of the track.
 
@@ -32,7 +32,7 @@ To improve the smoothness of the track, "**Kalman Filter**" is adopted in this m
 
 The results turn into:
 
-![R.S. Tracking Graph](https://github.com/leonardodalinky/RFIDLocator/RadialShifting/track_radial_kalman.gif)
+![R.S. Tracking Graph](./RadialShifting/track_radial_kalman.gif)
 
 The circle in black is the actual track of the stuff, while the scatterplot shows the overall prediction of the track.
 
